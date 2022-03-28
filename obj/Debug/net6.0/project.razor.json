@@ -16298,6 +16298,16 @@
   "RootNamespace": "NguyenXuanSon2022537",
   "Documents": [
     {
+      "FilePath": "f:\\.Net\\BaiKiemTra\\NguyenXuanSon2022537\\Views\\NXSs\\Create.cshtml",
+      "TargetPath": "Views\\NXSs\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\.Net\\BaiKiemTra\\NguyenXuanSon2022537\\Views\\NXSs\\Edit.cshtml",
+      "TargetPath": "Views\\NXSs\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\.Net\\BaiKiemTra\\NguyenXuanSon2022537\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -16305,6 +16315,11 @@
     {
       "FilePath": "f:\\.Net\\BaiKiemTra\\NguyenXuanSon2022537\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\.Net\\BaiKiemTra\\NguyenXuanSon2022537\\Views\\NXSs\\Delete.cshtml",
+      "TargetPath": "Views\\NXSs\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16323,8 +16338,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\.Net\\BaiKiemTra\\NguyenXuanSon2022537\\Views\\NXSs\\Index.cshtml",
+      "TargetPath": "Views\\NXSs\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\.Net\\BaiKiemTra\\NguyenXuanSon2022537\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\.Net\\BaiKiemTra\\NguyenXuanSon2022537\\Views\\NXSs\\Details.cshtml",
+      "TargetPath": "Views\\NXSs\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

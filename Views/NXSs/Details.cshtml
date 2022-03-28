@@ -1,0 +1,30 @@
+@model NguyenXuanSon2022537.Models.NXS537
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>NXS537</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NXSName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NXSName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NXSGender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NXSGender)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.NXSID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
